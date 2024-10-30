@@ -11,6 +11,11 @@ A streamlined template that combines Bun, React, TailwindCSS, TypeScript, SWC, a
 - 🔧 Vite as the development environment for optimized builds and HMR
 
 ## Getting Started
+Clone the repository:
+```bash
+git clone https://github.com/sadrozzy/Bun-React-Template.git
+```
+
 Install dependencies:
 ```bash
 bun i
